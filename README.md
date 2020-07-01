@@ -1,5 +1,5 @@
 
-# module::GdfReaderYaml - Experimental [![Status](https://github.com/Wandalen/wGdfReaderYaml/workflows/Test/badge.svg)](https://github.com/Wandalen/wGdfReaderYaml/actions?query=workflow%3ATest)
+# module::GdfReaderYaml [![experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/emersion/stability-badges#experimental) [![Status](https://github.com/Wandalen/wGdfReaderYaml/workflows/Test/badge.svg)](https://github.com/Wandalen/wGdfReaderYaml/actions?query=workflow%3ATest)
 
 ___
 
