@@ -3,5 +3,5 @@ let _ = require( 'wgdfreaderyaml' );
 
 /**/
 
-___
+console.log( '___ not implemented ___' );
 
