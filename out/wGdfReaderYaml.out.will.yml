@@ -1470,6 +1470,4 @@ module:
       ../.im.will.yml:
         hash: f27156e026e6b65a4bc8475f645f48a1
         size: 4737
-      wGdfReaderYaml.out.will.yml:
-        hash: 04f59c96898bcbabb1dfe9597a69d344
-        size: 37349
+      wGdfReaderYaml.out.will.yml: *ref_0
